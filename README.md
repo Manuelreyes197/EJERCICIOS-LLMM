@@ -1,5 +1,4 @@
 # EJERCICIOS-LLMM
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+EJERCICIOS | ENUNCIADO
+------------ | 1.	Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
+
