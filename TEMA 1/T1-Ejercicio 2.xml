@@ -1,0 +1,17 @@
+<biblioteca>
+<libro>
+<autor> C. S. Lewis</autor>
+<titulo> Las Crónicas de Narnia:La silla de plata</titulo>
+<editorial>Geoffrey Bles</editorial>
+</libro>
+<libro>
+<autor>C. S. Lewis</autor>
+<titulo>Las Crónicas de Narnia:La ultima batalla</titulo>
+<editorial>Geoffrey Bles</editorial>
+</libro>
+<libro>
+<autor>J.R.Tolkien</autor>
+<titulo>El Señor de los Anillos:Las Dos Torres</titulo>
+<editorial>	Ediciones Minotauro</editorial>
+</libro>
+</biblioteca>
