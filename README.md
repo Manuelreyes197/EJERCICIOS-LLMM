@@ -12,3 +12,4 @@ EJERCICIOS | ENUNCIADO
 [EJ3](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%203.html) | **3.** Usa el texto mostrado y dale el formato siguiendo las indicaciones:● Crea una cabecera h1 para “Curriculum Vitae”,● Usa una cabecera h2 Cada apartado,● Coloca una etiqueta “strong” para los datos
 [EJ4](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%204.html)| **4.** Crea una página html que muestre el siguiente aspecto:
 EJ5 | **5.** Haz el ejercicio número 6 de “uniwebsidad” del  capítulo 4:https://uniwebsidad.com/libros/xhtml/capitulo-4/enlaces-basicos
+[EJ6](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%206.html)| **6.** Crea un página html como la mostrada a continuación:
