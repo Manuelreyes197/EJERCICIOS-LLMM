@@ -1,0 +1,37 @@
+#encabezado1 {
+border: brown 5px dotted;
+
+}
+
+#encabezado2 {
+border: red 6px double;
+
+}
+
+#encabezado3 {
+border: purple 7px dashed;
+
+}
+
+#encabezado4 {
+border: green 8px solid;
+
+}
+
+
+#parrafo1 {
+border: brown 5px dotted;
+
+}
+
+#parrafo2 { 
+border: red 6px double;
+}
+
+#parrafo3 {
+border: purple 7px dashed;
+}
+
+#parrafo4 {
+border: green 8px solid;
+}
