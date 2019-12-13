@@ -24,3 +24,4 @@ EJ5 | **5.** Haz el ejercicio número 6 de “uniwebsidad” del  capítulo 4:ht
 [EJ15](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/T2-Ejercicio%2015)| **15.** Display the following table. Use heading cells where necessary and all attributes you need
 [EJ16](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/T2-Ejercicio%2016)| **16.** Muestra una imagen con posicionamiento flotante a la izquierda junto a un párrafo con texto. A continuacion agrega una imagen con posicionamiento flotante a la derecha junto a un parrafo con texto
 [EJ17](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/T2-Ejercicio%2017)| **17.** Usa las imagenes de w3school incluidas al principio del articulo del enlace siguiente y agregales texto, tal como aparece en el ejemplo final del articulo sobre pocisionamiento.
+[EJ18]()| **18.** Crea un grupo de imagenes en miniatura. Inlcuye un enlace a la imagen original en cada una de ellas.
