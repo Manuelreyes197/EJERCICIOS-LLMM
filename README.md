@@ -28,5 +28,4 @@ EJ5 | **5.** Haz el ejercicio número 6 de “uniwebsidad” del  capítulo 4:ht
 [EJ19](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%2019.html)| **19.** Crea una página que incluya una barra de menús: “html,css,javascript,Ajax”. A continuación se mostrará un iFrame en el que se visualizará el apartado correspondiente de la página “uniwebsidad” de cada uno de los enlaces del menú anterior. La anchura del iFrame será el 90% de la página e incluirá un borde de 1px.
 [EJ20](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%2020.html)| **20.** Forms with different kinds of controls **1.** Choose the best method.(GET o POST) **2.** Name has 30 characters as maximum, surname 80, and password 10. **3.** Newsletter Sign checked by default.
 [EJ21]()| **21.** Append new controls to last exercise.
-[EJ22]()| **22.** A continuación lleva a cabo el ejercicio del enlace mostrado a continuación y publícalo en tu
-sitio web.
+[EJ22]()| **22.** A continuación lleva a cabo el ejercicio del enlace mostrado a continuación y publícalo en tu sitio web.
