@@ -29,8 +29,8 @@ EJ5 | **5.** Haz el ejercicio número 6 de “uniwebsidad” del  capítulo 4:ht
 [EJ20](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%2020.html)| **20.** Forms with different kinds of controls **1.** Choose the best method.(GET o POST) **2.** Name has 30 characters as maximum, surname 80, and password 10. **3.** Newsletter Sign checked by default.
 EJ21| **21.** Append new controls to last exercise.
 [EJ22](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/T2-Ejercicio%2022)| **22.** A continuación lleva a cabo el ejercicio del enlace mostrado a continuación y publícalo en tu sitio web.
-**DOM** | [EJERCICIOS](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/DOM)
 [EJ23](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%2023.html)| **23.** Crea una página y modifica el título mediante JavaScript.
 [EJ24](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%2024.html)| **24.** Crea una página que incluya un párrafo. Accede a dicho párrafo mediante el “id” usando JavaScript  y cambiar su contenido
 [EJ25](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/blob/master/TEMA%202/T2-Ejercicio%2025.html)| **25.** Crea una página que incluya un párrafo. Accede a dicho párrafo mediante el “id” usando JavaScript  y cambiar su estilo: color, color de fondo, borde y tipo de fuente
 [EJ26](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/T2-Ejercicio%2026)| **26.** Crea una página que incluya un iframe. Accede al mismo mediante el “id” usando JavaScript  y cambiar el atributo “src” para que muestre una página diferente.
+**DOM** | [EJERCICIOS](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/DOM)
