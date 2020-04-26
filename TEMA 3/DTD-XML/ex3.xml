@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE cd_review_list [
+<!ELEMENT cd_review_list (cd_review*)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT review (#PCDATA)>
+<!ELEMENT cd (author,title)>
+]>
+
+<cd_review_list>
+<cd_review>
+<author></author>
+<review>
+
+</review>
+<author></author>
+<cd>
+<author></author>
+<title></title>
+</cd>
+</cd_review>
+<cd_review>
+<author></author>
+<review>
+
+</review>
+<author></author>
+<cd>
+<author></author>
+<title></title>
+</cd>
+</cd_review>
+</cd_review_list>

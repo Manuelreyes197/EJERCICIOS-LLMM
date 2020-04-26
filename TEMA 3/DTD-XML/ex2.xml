@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<! DOCTYPE  agenda [
+  <! ELEMENT agenda (contactos *)>
+  <! ELEMENT contactos (nombre, apellidos, dirección, teléfono, email +, empresa, edad, estado civil)>
+ <! ELEMENT nombre_ (#PCDATA)>
+  <! ELEMENT apellidos (#PCDATA)>
+  <Dirección ELEMENT (calle, num, código postal, país)>
+  <! ELEMENT calle (#PCDATA)>
+  <! ELEMENT num (#PCDATA)>
+  <! ELEMENT zip (#PCDATA)>
+  <! ELEMENT país (#PCDATA)>
+  <! ELEMENT teléfono (#PCDATA)>
+  <Correo email ELEMENT (#PCDATA)>
+  <! ELEMENT empresa (nombre, web)>
+  <! ELEMENT nombre (#PCDATA)>
+  <! ELEMENT web (web_name, url)>
+  <! ELEMENT web_name (#PCDATA)>
+  <URL ELEMENT (#PCDATA)>
+  <! ELEMENTO URL (#PCDATA)>
+  <! ELEMENT age (#PCDATA)>
+  <! ELEMENT Estado civil VACÍO>
+    <! ATTLIST Estado civil estado (C | S | V | D) #REQUIRED>
+    
+    
+    ]>< agenda >
+   < contactos >
+      < nombre > </ nombre >
+      < apellidos></ apellidos >
+      < dirección >
+          < calle > </ calle >
+          < num>  </ num>
+          < zip > </ zip >
+          < país > </ país >
+      </ dirección >
+      < teléfono > </ teléfono >
+      < email > </ email >
+      < email >  </ email >
+      < empresa >
+        < nombre > </ nombre >
+        < web >
+          < nombre web ></ nombre web >
+          < url ></ url >
+        </ web >
+      </ empresa >
+      < edad ></ edad >
+      < Estado civil  estado =  />
+   </ contactos >
