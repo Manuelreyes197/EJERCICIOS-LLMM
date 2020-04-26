@@ -36,3 +36,4 @@ EJ21| **21.** Append new controls to last exercise.
 **DOM** | [EJERCICIOS DOM](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/DOM)
 **CSS** | [EJERCICIOS CSS](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%202/CSS)
 **TEMA 3**
+**DTD** | [EJERCICIOS DTD](https://github.com/Manuelreyes197/EJERCICIOS-LLMM/tree/master/TEMA%203/DTD-XML)
